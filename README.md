@@ -1,1 +1,2 @@
-# MainPage
+# SAVVY: Insights explorer  
+Main page  
